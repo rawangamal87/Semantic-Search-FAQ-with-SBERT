@@ -29,10 +29,5 @@ A smart FAQ bot that finds the **most relevant answers** from a dataset even if 
 
 ---
 
-## Usage
-
-1. Clone the repo:
-```bash
-git clone <your-repo-link>
 
 
