@@ -12,13 +12,27 @@ A smart FAQ bot that finds the **most relevant answers** from a dataset even if 
 3. The embedding is compared to precomputed embeddings of all questions in the dataset.
 4. **Top 3 most similar questions and answers** are displayed along with a similarity score.
 
-![Semantic Search Workflow](link-to-your-gif-or-image)
+![Semantic Search Workflow](semantic_search.gif)
+
+> 💡 Replace `semantic_search.gif` with your actual GIF or image path.
+
+---
 
 ## Tech Stack
 
-- Python
-- Streamlit
-- Pandas
-- PyTorch
-- Sentence-Transformers (SBERT)
+- **Python**
+- **Streamlit** - for the UI
+- **Pandas** - for data manipulation
+- **PyTorch** - backend for SBERT
+- **Sentence-Transformers (SBERT)** - semantic embeddings
+- **NumPy** - numerical operations
+
+---
+
+## Usage
+
+1. Clone the repo:
+```bash
+git clone <your-repo-link>
+
 
