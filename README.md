@@ -16,9 +16,9 @@ The core functionality relies on two main phases driven by the Sentence-BERT mod
 1. Offline Preparation (The Corpus)
 Corpus Creation: All questions from the Ecommerce_FAQ_Chatbot_dataset.json are extracted to form the text corpus.
 
-Embedding Generation: The SBERT model converts every question in the corpus into a unique high-dimensional vector (Embedding). This vector is a numerical representation of the question's semantic meaning (its "fingerprint").
+2. Embedding Generation: The SBERT model converts every question in the corpus into a unique high-dimensional vector (Embedding). This vector is a numerical representation of the question's semantic meaning (its "fingerprint").
 
-Storage: These embeddings are pre-calculated and stored efficiently (as a PyTorch Tensor) to ensure rapid search speed when the application is live.
+3. Storage: These embeddings are pre-calculated and stored efficiently (as a PyTorch Tensor) to ensure rapid search speed when the application is live.
 
 
 ![Semantic Search Workflow](semantic_search.gif)
