@@ -31,4 +31,10 @@ A smart FAQ bot that finds the **most relevant answers** from a dataset even if 
 [![Building](https://img.shields.io/badge/Semantic%20Search%20-Online%20and%20Ready-green?style=for-the-badge&logo=pytorch&logoColor=white&cacheSeconds=3600&animate=true)](https://github.com/rawangamal87/Semantic-Search-FAQ-with-SBERT)
 
 
+![Python](https://img.shields.io/badge/Python-3.10+-blue.svg?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-2.9.0-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Sentence Transformers](https://img.shields.io/badge/SBERT-5.1.2-3178C6?style=for-the-badge&logo=pytorch&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-1.51.0-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2.3.3-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Numpy](https://img.shields.io/badge/NumPy-2.2.6-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
