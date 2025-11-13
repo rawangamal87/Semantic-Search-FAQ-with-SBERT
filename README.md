@@ -20,6 +20,14 @@ Corpus Creation: All questions from the Ecommerce_FAQ_Chatbot_dataset.json are e
 
 3. Storage: These embeddings are pre-calculated and stored efficiently (as a PyTorch Tensor) to ensure rapid search speed when the application is live.
 
+## Key Technologies Used
+
+| Technology | Role in the Project |
+| :--- | :--- |
+| **Sentence-BERT (SBERT)** | The deep learning model responsible for generating high-quality semantic embeddings. |
+| **PyTorch & NumPy** | Provides the necessary tensor manipulation capabilities for high-speed vector calculations and robust data type handling. |
+| **Pandas** | Used for efficient data loading, structure, and retrieval from the JSON source. |
+| **Streamlit** | Enables the rapid creation of an interactive and user-friendly web interface for querying the search engine. |
 
 ![Semantic Search Workflow](semantic_search.gif)
 
