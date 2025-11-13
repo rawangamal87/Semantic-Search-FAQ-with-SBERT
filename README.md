@@ -14,7 +14,6 @@ A smart FAQ bot that finds the **most relevant answers** from a dataset even if 
 
 ![Semantic Search Workflow](semantic_search.gif)
 
-> 💡 Replace `semantic_search.gif` with your actual GIF or image path.
 
 ---
 
@@ -27,7 +26,9 @@ A smart FAQ bot that finds the **most relevant answers** from a dataset even if 
 - **Sentence-Transformers (SBERT)** - semantic embeddings
 - **NumPy** - numerical operations
 
----
+
+
+[![Building](https://img.shields.io/badge/Semantic%20Search%20-Online%20and%20Ready-green?style=for-the-badge&logo=pytorch&logoColor=white&cacheSeconds=3600&animate=true)](https://github.com/rawangamal87/Semantic-Search-FAQ-with-SBERT)
 
 
 
