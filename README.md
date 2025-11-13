@@ -1,9 +1,7 @@
 # Semantic-Search-FAQ-Chatbot-with-SBERT
-A semantic search application using Sentence-BERT (SBERT) to find the most relevant answers for user queries in an e-commerce FAQ dataset. 
+This project presents a smart FAQ (Frequently Asked Questions) Bot that utilizes Semantic Search capabilities powered by Sentence-BERT (SBERT) to deliver highly relevant answers to user inquiries, even if the user's question is phrased differently from the questions in the original dataset.
 
-# Semantic Search FAQ Bot
-
-A smart FAQ bot that finds the **most relevant answers** from a dataset even if your question is phrased differently!
+The application transforms an e-commerce FAQ dataset into an intelligent search utility, moving beyond traditional keyword-matching limitations to truly understand the user's intent.
 
 ## How it Works
 
